@@ -15,13 +15,13 @@ body{
 }
 
 .card-message{
-    margin-top:4rem;
+    margin-top:1rem;
     font-family:Georgia, 'Times New Roman', Times, serif;
     font-size: 2.2rem;
     color: var(--gold-yellow);
     width: fit-content;
     text-align: justify;
-    white-space: pre;
+    white-space: pre;   
     background-color: var(--darkest-navy);
     padding: 2rem;
     -webkit-box-shadow: 13px 10px 11px -1px rgba(0,0,0,0.21); 
@@ -29,6 +29,9 @@ body{
     border: #3a80d8 double 13px;
 }
 
+#myDad {
+    width: 400px
+}
 
 
 .signature{
