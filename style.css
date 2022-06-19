@@ -19,7 +19,7 @@ body{
     font-family:Georgia, 'Times New Roman', Times, serif;
     font-size: 2.2rem;
     color: var(--gold-yellow);
-    width: fit-content;
+    width: 50%;
     text-align: justify;
     white-space: pre;   
     background-color: var(--darkest-navy);
@@ -30,7 +30,7 @@ body{
 }
 
 #myDad {
-    width: 400px
+    width: 19rem;
 }
 
 
